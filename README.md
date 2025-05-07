@@ -67,5 +67,5 @@ This project presents an exploratory data analysis (EDA) of US household income 
 - [README.md](README.md) – Project overview and documentation  
 - [US_Household_Income_Project_Data_cleaning.sql](US_Household_Income_Project_Data_cleaning.sql) – SQL script for cleaning the dataset  
 - [EDA_US_Household_Income_Project.sql](EDA_US_Household_Income_Project.sql) – SQL script for exploratory data analysis  
-- [Data Cleaning and Exploratory Data Analysis for US Household Income dataset.pdf](Data%20Cleaning%20and%20Exploratory%20Data%20Analysis%20Report.pdf) – This file contains complete queries with output screenshots (PDF)
+- [Data Cleaning and Exploratory Data Analysis for US Household Income dataset.pdf]([Data%20Cleaning%20and%20Exploratory%20Data%20Analysis%20Report.pdf](https://github.com/kirankumarnc/us-household-income-sql-eda/blob/91d5e2390e9968c318f816d323405d0f0fd4b8bb/Data%20Cleaning%20and%20Exploratory%20Data%20Analysis%20for%20US%20Household%20Income%20dataset.pdf)) – This file contains complete queries with output screenshots (PDF)
 
